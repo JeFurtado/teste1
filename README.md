@@ -17,4 +17,4 @@ Superior”?
 <br>1. Em governo, no pagamento, existem anulação, reforço, empenhados, valor
 liquidados e valor pago. Considerar somente o valor pago.
 <br>2. No arquivo baixado, provavelmente estão inclusos outros órgãos além da
-Prefeitura, como Câmara de Vereadores, considerar somente Prefeitura. 
+Prefeitura, como Câmara de Vereadores, considerar somente Prefeitura.
